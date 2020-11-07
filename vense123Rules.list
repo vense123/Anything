@@ -1,0 +1,18 @@
+# vense123 自用规则
+# > ingress
+
+# > MyBus
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,dm.toutiao.com,REJECT
+DOMAIN-SUFFIX,api.lytaohuitao.com,REJECT
+DOMAIN-SUFFIX,adashxgc.ut.taobao.com,REJECT
+DOMAIN-SUFFIX,dg.k.jd.com,REJECT
+DOMAIN-SUFFIX,cpro.baidustatic.com,REJECT
+DOMAIN-SUFFIX,mobads.baidu.com,REJECT
+DOMAIN-SUFFIX,caclick.baidu.com,REJECT
+DOMAIN-SUFFIX,wn.pos.baidu.com,REJECT
+DOMAIN-SUFFIX,cpu.baidu.com,REJECT
+DOMAIN-SUFFIX,cpu-openapi.baidu.com,REJECT
+#DOMAIN-SUFFIX,static.mygolbs.com,REJECT
+DOMAIN-SUFFIX,quanguo.mygolbs.com,REJECT
