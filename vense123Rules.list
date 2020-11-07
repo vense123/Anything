@@ -1,8 +1,8 @@
 # vense123 自用规则
 # > ingress
 DOMAIN-SUFFIX,niantic.helpshift.com,PROXY
-DOMAIN-SUFFIX,prod-ingress.nianticlabs.com,PROXY
-DOMAIN-KEYWORD,nianticlabs,DIRECT
+DOMAIN-SUFFIX,prod-ingress.nianticlabs.com,INGRESS验证
+DOMAIN-KEYWORD,nianticlabs,INGRESS
 DOMAIN-SUFFIX,nashira.iad-06.braze.com,PROXY
 DOMAIN-SUFFIX,intel.ingress.com,PROXY
 DOMAIN-SUFFIX,ar-video.storage.googleapis.com,PROXY
